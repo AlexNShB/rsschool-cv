@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(114, 155, 245);
+}
+
+.wrapper {
+    margin: 0 auto; /*центрируем элемент по горизонтали в пределах родительского блока*/
+    width:900px;
+  }
+
+.about_myself {
+    max-width: 300;
+}
